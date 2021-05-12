@@ -22,6 +22,11 @@ JSON Data:
             "employeeUsername": "user1",
             "employeePassword": "password@1",
             "domainName": "test.com"
+        },
+        {
+            "employeeUsername": "user2",
+            "employeePassword": "password@1",
+            "domainName": "test.com"
         }
     ]
 }
